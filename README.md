@@ -1,5 +1,7 @@
 # CmeTechnicalChallenge
 
+Author: Gavin Davis
+
 **Anagram Checker**
 A Java program to accept a username and 2 text values and return an indicator whether the values are an anagram.
 A word is an anagram of another word if both use the same letters in the same quantity but arranged differently.  
